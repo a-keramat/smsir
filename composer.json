@@ -17,6 +17,6 @@
     "require": {
         "guzzlehttp/guzzle": "~6.0",
         "zendframework/zend-diactoros" : "2.*.*",
-        "symfony/psr-http-message-bridge" : "1.*.*"
+        "symfony/psr-http-message-bridge" : "2.*.*"
     }
 }
